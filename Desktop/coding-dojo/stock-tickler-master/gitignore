@@ -1,0 +1,17 @@
+# ignore .gitignore
+.gitignore
+
+# ignore Django secret key
+secrets.json
+
+# ignore all logs
+*.log
+
+# ignore database files
+*.sqlite3
+
+# ignore C Python files
+*.pyc
+
+# ignore migrations
+app/migrations/*
